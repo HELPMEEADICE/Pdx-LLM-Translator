@@ -1,0 +1,4 @@
+pyyaml
+openai
+python-dotenv
+tqdm
