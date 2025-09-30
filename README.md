@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/状态-革命已至-red?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/HELPMEEADICE/Pdx-llm-translator?style=for-the-badge&logo=github&color=yellow" />
-  <img src="https://img.shields.io/github/forks/HELPMEEADICE/Pdx-llm-translator?style=for-the-badge&logo=github&color=green" />
+  <img src="https://img.shields.io/github/stars/HELPMEEADICE/Pdx-LLM-Translator?style=for-the-badge&logo=github&color=yellow" />
+  <img src="https://img.shields.io/github/forks/HELPMEEADICE/Pdx-LLM-Translator?style=for-the-badge&logo=github&color=green" />
 </p>
 
 <h2 align="center">“P社游戏翻译将被颠覆，全自动化中英互译正式上线。”</h2>
@@ -48,7 +48,7 @@
 
 ```bash
 git clone https://github.com/HELPMEEADICE/Pdx-LLM-Translator.git
-cd your-repo-name
+cd Pdx-LLM-Translator
 ```
 
 ### 步驟 2：武装你的环境 ⚙️
